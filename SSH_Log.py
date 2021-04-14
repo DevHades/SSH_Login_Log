@@ -2,7 +2,7 @@
 import requests, os
 from datetime import datetime
 
-Web_Hook = "https://discord.com/api/webhooks/818271927411146842/OYlPe2zRlW9etqbqjKfxJvrWZbL2-PYwvu45Z9P_xV4uscSALqZBVojaEg3b_Co3QLwQ"
+Web_Hook = ""
 
 embed = {
 	"color": 12976176, 
